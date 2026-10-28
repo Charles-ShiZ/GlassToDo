@@ -4,11 +4,13 @@
 
 ## 下载
 
-[下载 GlassToDo 1.2 · Apple Silicon](https://github.com/Charles-ShiZ/GlassToDo/releases/latest/download/GlassToDo-1.2-arm64.dmg)
+[下载 GlassToDo 1.2 · Universal 2（Intel + Apple 芯片）](https://github.com/Charles-ShiZ/GlassToDo/releases/latest/download/GlassToDo-1.2-universal.dmg)
+
+[仅下载 Apple Silicon 版本](https://github.com/Charles-ShiZ/GlassToDo/releases/latest/download/GlassToDo-1.2-arm64.dmg)
 
 [所有版本与校验文件](https://github.com/Charles-ShiZ/GlassToDo/releases)
 
-支持 M 系列芯片 Mac，macOS 14 或更新版本。当前安装包不支持 Intel Mac。
+支持 Intel 与 Apple 芯片 Mac，要求 macOS 14 或更新版本。Universal 2 安装包同时包含 `x86_64` 与 `arm64`。
 
 ## 当前版本
 
@@ -21,3 +23,5 @@
 当前为 ad-hoc 本地签名版本，尚未使用 Apple Developer ID 签名和公证。macOS 可能阻止首次打开，此版本适用于了解并信任此来源的用户。
 
 发布附件中的 `SHA256SUMS.txt` 可用于校验 DMG 下载文件。
+
+Universal 2 安装包已完成双架构、最低系统版本和签名校验；Intel 架构尚未在 Intel 实机上运行验证。
