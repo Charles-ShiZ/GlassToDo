@@ -4,9 +4,7 @@
 
 ## 下载
 
-[下载 GlassToDo 1.2 · Universal 2（Intel + Apple 芯片）](https://github.com/Charles-ShiZ/GlassToDo/releases/latest/download/GlassToDo-1.2-universal.dmg)
-
-[仅下载 Apple Silicon 版本](https://github.com/Charles-ShiZ/GlassToDo/releases/latest/download/GlassToDo-1.2-arm64.dmg)
+[下载 GlassToDo-v1.2-universal.dmg（Intel + Apple 芯片）](https://github.com/Charles-ShiZ/GlassToDo/releases/latest/download/GlassToDo-v1.2-universal.dmg)
 
 [所有版本与校验文件](https://github.com/Charles-ShiZ/GlassToDo/releases)
 
